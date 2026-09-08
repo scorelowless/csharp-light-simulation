@@ -11,10 +11,10 @@ The project will probably not be developed further, as it's purpose is rather ed
 ## Instructions
 
 The UI is pretty self explanatory, but there are some parameters whose name is ambiguous. Here's the meaning of them:
-- kd:
-- ks:
-- m:
-- alfa & beta:
+- kd: diffuse reflection coefficient
+- ks: specular reflection coefficient
+- m: specular exponent
+- alfa & beta: angles of orientation of the main surface 
 
 ## AI disclosure
 
